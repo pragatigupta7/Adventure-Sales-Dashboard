@@ -14,5 +14,5 @@ Key Responsibilities:
   - ✅ Data Modeling
   - ✅ SQL & Database Management
   - ✅ Business Intelligence (BI) & Analytics
-  - ✅ Power BI / Tableau (if applicable)
+  - ✅ Power BI 
   - ✅ Data-Driven Decision Making
