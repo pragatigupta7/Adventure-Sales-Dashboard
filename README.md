@@ -5,14 +5,14 @@ This project involves analyzing the business operations of Adventure Works Cycle
 
 Key Responsibilities:
 
-Designed and implemented a data model to support business intelligence reporting.
-Analyzed sales data to identify key customer segments and improve market reach.
-Evaluated production costs and supply chain efficiency to optimize manufacturing operations.
-Integrated web-based sales data to track external market expansion.
-Provided actionable insights to enhance revenue growth and reduce operational costs.
-Skills Utilized:
-✅ Data Modeling
-✅ SQL & Database Management
-✅ Business Intelligence (BI) & Analytics
-✅ Power BI / Tableau (if applicable)
-✅ Data-Driven Decision Making
+`Designed and implemented a data model to support business intelligence reporting.`
+`Analyzed sales data to identify key customer segments and improve market reach.`
+`Evaluated production costs and supply chain efficiency to optimize manufacturing operations.`
+`Integrated web-based sales data to track external market expansion.`
+`Provided actionable insights to enhance revenue growth and reduce operational costs.`
+  `Skills Utilized:`
+  - ✅ Data Modeling
+  - ✅ SQL & Database Management
+  - ✅ Business Intelligence (BI) & Analytics
+  - ✅ Power BI / Tableau (if applicable)
+  - ✅ Data-Driven Decision Making
